@@ -146,17 +146,17 @@ vendor/bin/hw/vendor.qti.hardware.capabilityconfigstore@1.0-service
 vendor/etc/init/vendor.qti.hardware.capabilityconfigstore@1.0-service.rc
 vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so
 
-# Display - from NX627J 20201029.204053
-vendor/lib64/libdisplayqos.so|3e95c6aedbfca5132ef75365e0a45a32c79b1fd6
-vendor/lib64/libhdr_tm.so|9977b4ccb6667d990210c1ac980e55325f7e7a50
-vendor/lib64/libqseed3.so|a449d79b912415f542509874b43338b27795a1c3
-vendor/lib64/libsdedrm.so|582910d21139781ad9e414c35207584f51e035e2
-vendor/lib64/libsdm-color.so|b2bcf2c205b501024407ed5c216d2b290688bd64
-vendor/lib64/libsdm-colormgr-algo.so|6d17546d7822803700dc21968f75069d1b7392b1
-vendor/lib64/libsdm-diag.so|3d5c311d7d5d842e5a75e9ae3f9f70ceb00cd1cf
-vendor/lib64/libsdm-disp-vndapis.so|42f536763a2f91dcbae5b4b7214e652283c389d6
-vendor/lib64/libsdmextension.so|0aed8ab6ecf878ae57ecba4b8a9bfb0d184ab5f7
-vendor/lib64/libtinyxml2_1.so|621dbc8e3d0529b9ee35393698de82ea006ca7fa
+# Display - from LA.UM.9.11.r1-02400-NICOBAR.0
+vendor/lib64/libdisplayqos.so|a263254a5252f4b93237a7972451233578635d2d
+vendor/lib64/libhdr_tm.so|e4638c3bf21685b84650c5858bafe384ab2118ff
+vendor/lib64/libqseed3.so|1395834daf3c6cd07acbdbc44110decb3be362c2
+vendor/lib64/libsdedrm.so|7518fcc2ad512913fcb5d41faae7301f01624e90
+vendor/lib64/libsdm-color.so|7cc07a7c5097babeb4140ab5c20e1e15d3edfcfb
+vendor/lib64/libsdm-colormgr-algo.so|11b65733d87ff65633a5fe8f4207dde12391625c
+vendor/lib64/libsdm-diag.so|55dafc05ba68666f10412a534f7122d7f45bf403
+vendor/lib64/libsdm-disp-vndapis.so|9ab6725a5efba29b77d1d6ab33e10e3ff3296960
+vendor/lib64/libsdmextension.so|d9cbfa43999c86018c84798b2b6819781ae87077
+vendor/lib64/libtinyxml2_1.so|92101861d95cbdf9625d192d0b2295baa5960b68
 
 # DPM
 framework/tcmclient.jar
